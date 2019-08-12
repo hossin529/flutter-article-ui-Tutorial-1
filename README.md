@@ -1,7 +1,7 @@
 # Flutter Article Details UI 
 
 
-<a target="_blank" rel="noopener noreferrer" href="/https://assets.materialup.com/uploads/f320f960-5160-4124-b986-a98560ec93a3/preview.jpg"><img src="https://assets.materialup.com/uploads/f320f960-5160-4124-b986-a98560ec93a3/preview.jpg" alt="" style="max-width:100%;"></a>
+<img src="https://assets.materialup.com/uploads/f320f960-5160-4124-b986-a98560ec93a3/preview.jpg" alt="" style="max-width:100%;">
 
 <p>Watch the Video on Youtube - <a href="https://youtu.be/0CbZGWsA0KY" rel="nofollow">Youtube Video</a></p>
 <p>Also Don't Forget to Subscribe to My youtube Channel - <a href="https://www.youtube.com/channel/UCuArmx2gHQooKQ3oMLTbv2Q" rel="nofollow">Youtube Channel</a></p>
